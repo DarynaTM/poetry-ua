@@ -1,2 +1,2 @@
 # poetry-ua
-Repository for Prjctr homework
+Репозиторій з українськими віршами
